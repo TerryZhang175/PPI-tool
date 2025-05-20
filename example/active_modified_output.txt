@@ -1,0 +1,5 @@
+PDB_Identifier	ActiveSite_ResNum	ModifiedSite_ResNum	Distance(Å)	ActiveSite_AtomType	ModifiedSite_AtomType
+A0A0A0MSK5	1	21	61.770	CA	CA
+A0A0G2JIW1	2	22	18.117	CA	CA
+A0A1W2PPZ5	3	23	19.781	CA	CA
+A0A2R8Y811	4	24	45.906	CA	CA

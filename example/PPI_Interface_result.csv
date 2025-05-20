@@ -1,0 +1,5 @@
+uniprot,chain,residue,pdb_file,min_distance,has_sg
+o00233_p0dml2,A,59,e:/PPI-tool/example/pdb_complex\fold_o00233_p0dml2_model_0.pdb,26.084869384765625,True
+o00233_p09651_2,A,81,e:/PPI-tool/example/pdb_complex\fold_o00233_p09651_2_model_0.pdb,14.795816421508789,True
+o00233_p62263,A,216,e:/PPI-tool/example/pdb_complex\fold_o00233_p62263_model_0.pdb,4.9708404541015625,True
+
