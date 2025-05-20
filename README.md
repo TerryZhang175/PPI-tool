@@ -6,7 +6,7 @@ Tools for Protein-Protein Interaction analysis.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/TerryZhang175/PPI-tool.git)
     cd PPI-tool
     ```
 2.  **Create a virtual environment (recommended):**
