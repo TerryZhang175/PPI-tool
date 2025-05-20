@@ -2,6 +2,32 @@
 
 Tools for Protein-Protein Interaction analysis.
 
+## How to Install
+
+1.  **Clone the repository:**
+    ```bash
+    git clone <repository_url>
+    cd PPI-tool
+    ```
+2.  **Create a virtual environment (recommended):**
+    ```bash
+    python -m venv .venv
+    ```
+    Activate the virtual environment:
+    *   Windows:
+        ```bash
+        .\.venv\Scripts\activate
+        ```
+    *   macOS/Linux:
+        ```bash
+        source .venv/bin/activate
+        ```
+3.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+
 ## PPI Suite
 
 `ppi_suite.py` provides a single command line entry point that exposes all functionality of this repository. The suite offers three subcommands:
